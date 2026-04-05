@@ -4,7 +4,9 @@ import streamlit as st
 import chardet
 import re
 from typing import Dict, List, Tuple, Any
-from config import COLUMN_MAPPING, HABITAT_TYPE_MAPPING, REQUIRED_FIELDS, RECOMMENDED_FIELDS
+from config import (COLUMN_MAPPING, HABITAT_TYPE_MAPPING, REQUIRED_FIELDS, 
+                   RECOMMENDED_FIELDS, VALID_SOUS_CATEGORIES, normalize_sous_categorie, 
+                   normalize_public_cible)
 
 class DataProcessor:
     """Processeur pour l'analyse et le traitement des données CSV"""
@@ -164,6 +166,21 @@ class DataProcessor:
             cp_col = self.mapped_columns['code_postal']
             df_clean[cp_col] = df_clean[cp_col].apply(self._clean_postal_code)
         
+        # Normalisation des sous-catégories pour compatibilité avec les CSV existants
+        if 'sous_categorie' in self.mapped_columns:
+            sc_col = self.mapped_columns['sous_categorie']
+            df_clean[sc_col] = df_clean[sc_col].apply(normalize_sous_categorie)
+        
+        # Normalisation du public cible
+        if 'public_cible' in self.mapped_columns:
+            pc_col = self.mapped_columns['public_cible']
+            df_clean[pc_col] = df_clean[pc_col].apply(normalize_public_cible)
+        
+        # Nettoyage des adresses - séparer l'adresse de la commune/code postal
+        if 'adresse_l1' in self.mapped_columns:
+            addr_col = self.mapped_columns['adresse_l1']
+            df_clean[addr_col] = df_clean[addr_col].apply(self._clean_address)
+        
         return df_clean
     
     def _map_habitat_type(self, value):
@@ -194,14 +211,33 @@ class DataProcessor:
         if pd.isna(cp) or cp == '':
             return None
         
-        # Garder seulement les chiffres
-        cp_clean = re.sub(r'[^\d]', '', str(cp))
+        # Convertir en string et enlever les décimales (.0 par exemple)
+        cp_str = str(cp).strip()
+        if cp_str.endswith('.0'):
+            cp_str = cp_str[:-2]
         
-        # Vérifier que c'est bien un code postal français (5 chiffres)
-        if len(cp_clean) == 5 and cp_clean.isdigit():
-            return cp_clean
+        return cp_str if cp_str else None
+    
+    def _clean_address(self, addr):
+        """Nettoie une adresse en retirant la commune et le code postal s'ils sont présents"""
+        if pd.isna(addr) or addr == '':
+            return None
         
-        return str(cp).strip()  # Retourner la valeur originale si pas conforme
+        addr_str = str(addr).strip()
+        
+        # Pattern pour détecter et supprimer "code_postal commune" à la fin
+        # Ex: "12 rue de la Paix, 75001 Paris" -> "12 rue de la Paix"
+        import re
+        
+        # Supprimer les patterns du type ", 75001 Paris" ou ", 40160 Parentis-en-Born"
+        pattern = r',\s*\d{5}\s+[A-Za-z][A-Za-zÀ-ÿ\s\-\']+$'
+        cleaned_addr = re.sub(pattern, '', addr_str)
+        
+        # Supprimer aussi les patterns sans virgule: "12 rue 75001 Paris"
+        pattern2 = r'\s+\d{5}\s+[A-Za-z][A-Za-zÀ-ÿ\s\-\']+$'
+        cleaned_addr = re.sub(pattern2, '', cleaned_addr)
+        
+        return cleaned_addr.strip() if cleaned_addr.strip() else None
     
     def get_preview_data(self, max_rows=10) -> pd.DataFrame:
         """Retourne un aperçu des données nettoyées"""

@@ -1,0 +1,61 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "FINESS - Créer tables",
+			"type": "shell",
+			"command": "C:/Users/Lenovo/ingest-habitat/.venv/Scripts/python.exe",
+			"args": [
+				"scripts/ingest_finess.py",
+				"--create-tables-only"
+			]
+		},
+		{
+			"label": "FINESS - Créer tables",
+			"type": "shell",
+			"command": "C:/Users/Lenovo/ingest-habitat/.venv/Scripts/python.exe",
+			"args": [
+				"scripts/ingest_finess.py",
+				"--create-tables-only"
+			]
+		},
+		{
+			"label": "FINESS create tables",
+			"type": "shell",
+			"command": "C:/Users/Lenovo/ingest-habitat/.venv/Scripts/python.exe",
+			"args": [
+				"scripts/ingest_finess.py",
+				"--create-tables-only"
+			]
+		},
+		{
+			"label": "finess-tables-v2",
+			"type": "shell",
+			"command": "C:/Users/Lenovo/ingest-habitat/.venv/Scripts/python.exe scripts/ingest_finess.py --create-tables-only"
+		},
+		{
+			"label": "Relaunch 2 parallel Job A batches",
+			"type": "shell",
+			"command": ".\\cloudrun_jobs\\relaunch_2parallel_jobA.ps1",
+			"isBackground": false
+		},
+		{
+			"label": "Relaunch 2 Job A batches",
+			"type": "shell",
+			"command": ".\\cloudrun_jobs\\relaunch_2parallel_jobA.ps1",
+			"isBackground": false
+		},
+		{
+			"label": "Check all departments status",
+			"type": "shell",
+			"command": "python _check_all_depts.py",
+			"isBackground": false
+		},
+		{
+			"label": "Check all departments status",
+			"type": "shell",
+			"command": "python _check_all_depts.py",
+			"isBackground": false
+		}
+	]
+}

@@ -1,0 +1,83 @@
+[
+  {
+    "code": "DIRPJJ-IDF",
+    "nom": "Île-de-France et Outre-Mer",
+    "nom_complet": "Direction interrégionale de la PJJ Île-de-France et Outre-Mer",
+    "siege": "Paris",
+    "domaine_email": "justice.fr",
+    "email_generique": "dirpjj-idf-om@justice.fr",
+    "contacts": []
+  },
+  {
+    "code": "DIRPJJ-GN",
+    "nom": "Grand-Nord",
+    "nom_complet": "Direction interrégionale de la PJJ Grand-Nord",
+    "siege": "Lille",
+    "domaine_email": "justice.fr",
+    "email_generique": "dirpjj-grand-nord@justice.fr",
+    "contacts": []
+  },
+  {
+    "code": "DIRPJJ-GO",
+    "nom": "Grand-Ouest",
+    "nom_complet": "Direction interrégionale de la PJJ Grand-Ouest",
+    "siege": "Rennes",
+    "domaine_email": "justice.fr",
+    "email_generique": "dirpjj-grand-ouest@justice.fr",
+    "contacts": []
+  },
+  {
+    "code": "DIRPJJ-GE",
+    "nom": "Grand-Est",
+    "nom_complet": "Direction interrégionale de la PJJ Grand-Est",
+    "siege": "Nancy",
+    "domaine_email": "justice.fr",
+    "email_generique": "dirpjj-grand-est@justice.fr",
+    "contacts": []
+  },
+  {
+    "code": "DIRPJJ-GC",
+    "nom": "Grand-Centre",
+    "nom_complet": "Direction interrégionale de la PJJ Grand-Centre",
+    "siege": "Dijon",
+    "domaine_email": "justice.fr",
+    "email_generique": "dirpjj-grand-centre@justice.fr",
+    "contacts": []
+  },
+  {
+    "code": "DIRPJJ-CE",
+    "nom": "Centre-Est",
+    "nom_complet": "Direction interrégionale de la PJJ Centre-Est",
+    "siege": "Lyon",
+    "domaine_email": "justice.fr",
+    "email_generique": "dirpjj-centre-est@justice.fr",
+    "contacts": []
+  },
+  {
+    "code": "DIRPJJ-SO",
+    "nom": "Sud-Ouest",
+    "nom_complet": "Direction interrégionale de la PJJ Sud-Ouest",
+    "siege": "Bordeaux",
+    "domaine_email": "justice.fr",
+    "email_generique": "dirpjj-sud-ouest@justice.fr",
+    "contacts": []
+  },
+  {
+    "code": "DIRPJJ-SUD",
+    "nom": "Sud",
+    "nom_complet": "Direction interrégionale de la PJJ Sud",
+    "siege": "Toulouse",
+    "domaine_email": "justice.fr",
+    "email_generique": "dirpjj-sud@justice.fr",
+    "contacts": []
+  },
+  {
+    "code": "DIRPJJ-SE",
+    "nom": "Sud-Est",
+    "nom_complet": "Direction interrégionale de la PJJ Sud-Est",
+    "siege": "Marseille",
+    "domaine_email": "justice.fr",
+    "email_generique": "dirpjj-sud-est@justice.fr",
+    "contacts": []
+  }
+]

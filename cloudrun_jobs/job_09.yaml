@@ -1,0 +1,62 @@
+apiVersion: run.googleapis.com/v1
+kind: Job
+metadata:
+  name: habitat-enrich-09
+spec:
+  template:
+    spec:
+      taskCount: 1
+      template:
+        spec:
+          containers:
+          - image: europe-west1-docker.pkg.dev/gen-lang-client-0230548399/habitat/enrich:latest
+            command:
+            - python
+            args:
+            - scripts/enrich_dept_prototype.py
+            - --departements
+            - "63,64,66,69,71,72,73,77,76"
+            - --limit
+            - "0"
+            - --out-dir
+            - /tmp/outputs
+            env:
+            - name: PYTHONUNBUFFERED
+              value: "1"
+            - name: GEMINI_MODEL
+              value: gemini-2.0-flash
+            - name: DB_HOST
+              value: db.minwoumfgutampcgrcbr.supabase.co
+            - name: DB_NAME
+              value: postgres
+            - name: DB_USER
+              value: postgres
+            - name: DB_PORT
+              value: "5432"
+            - name: DB_PASSWORD
+              valueFrom:
+                secretKeyRef:
+                  name: DB_PASSWORD
+                  key: latest
+            - name: SERPER_API_KEY
+              valueFrom:
+                secretKeyRef:
+                  name: SERPER_API_KEY
+                  key: latest
+            - name: SCRAPINGBEE_API_KEY
+              valueFrom:
+                secretKeyRef:
+                  name: SCRAPINGBEE_API_KEY
+                  key: latest
+            - name: GEMINI_API_KEY
+              valueFrom:
+                secretKeyRef:
+                  name: GEMINI_API_KEY
+                  key: latest
+            resources:
+              limits:
+                cpu: "1"
+                memory: 512Mi
+          maxRetries: 0
+          timeoutSeconds: 21600
+          serviceAccountName: habitat-enrich-sa@gen-lang-client-0230548399.iam.gserviceaccount.com

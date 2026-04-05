@@ -1,0 +1,16 @@
+# Dépendances du pipeline de prospection financeurs ESSMS
+# Réutilise le venv du projet ingest-habitat (.venv)
+# Installer avec : .venv\Scripts\pip install -r prospection-financeurs/requirements.txt
+
+# API clients
+mistralai>=1.0.0
+httpx>=0.27.0
+
+# Retry / robustesse
+tenacity>=8.2.0
+
+# Base de données (déjà dans le venv principal mais listé pour clarté)
+psycopg2-binary>=2.9.9
+
+# Utilitaires (déjà dans le venv principal)
+python-dotenv>=1.0.0

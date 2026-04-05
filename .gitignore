@@ -1,52 +1,47 @@
-# Environment variables
 .env
+.env.local
+.env.*
+!.env.example
+!**/.env.example
 
 # Python
 __pycache__/
 *.py[cod]
-*$py.class
-*.so
-.Python
-build/
-develop-eggs/
-dist/
-downloads/
-eggs/
-.eggs/
-lib/
-lib64/
-parts/
-sdist/
-var/
-wheels/
-pip-wheel-metadata/
-share/python-wheels/
-*.egg-info/
-.installed.cfg
-*.egg
-MANIFEST
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
 
-# Virtual environment
-venv/
-env/
-ENV/
-
-# IDE
-.vscode/
-.idea/
-*.swp
-*.swo
-
-# Data files (optionnel - décommentez si vous ne voulez pas pousser vos CSV)
-# *.csv
-# data/
-
-# Logs
-*.log
-
-# OS
+# OS/editor
 .DS_Store
 Thumbs.db
 
-# Streamlit
-.streamlit/
+# Virtual envs
+.venv/
+venv/
+venv_pdf/
+
+# Generated outputs/logs
+outputs/
+logs/
+
+# Local uploads and personal docs
+TDS/
+data/uploads/
+data/_tmp*
+data/cache_*/
+
+# Root-generated artifacts from ad-hoc runs
+/pipeline_*.csv
+/pipeline_complet_*.csv
+/data_*.csv
+/test_*.csv
+/latest_check.txt
+/temp_*.json
+/temp_*.txt
+
+# Root scratch scripts (keep if intentionally tracked with git add -f)
+/_*.py
+
+# Organized local scratch area
+scripts/scratch/
+scripts/legacy_tests/

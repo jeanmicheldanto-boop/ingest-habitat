@@ -1,0 +1,66 @@
+﻿apiVersion: run.googleapis.com/v1
+kind: Job
+metadata:
+  name: finess-quality-pass-2
+spec:
+  template:
+    spec:
+      taskCount: 1
+      template:
+        spec:
+          containers:
+          - image: europe-west1-docker.pkg.dev/gen-lang-client-0230548399/habitat/enrich:quality
+            command:
+            - python
+            args:
+            - scripts/quality_pass_targeted.py
+            env:
+            - name: PYTHONUNBUFFERED
+              value: "1"
+            - name: LLM_PROVIDER
+              value: "gemini"
+            - name: GEMINI_MODEL
+              value: "gemini-2.0-flash"
+            - name: PHASE_FILTER
+              value: "A,B,C"
+            - name: DEPTS_FILTER
+              value: "51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66,67,68,69,70,71,72,73,74,75,76,77,78,79,80,81,82,83,84,85,86,87,88,89,90,91,92,93,94,95,9A,9B,9C,9D,9E,9F"
+            - name: DB_HOST
+              value: db.minwoumfgutampcgrcbr.supabase.co
+            - name: DB_NAME
+              value: postgres
+            - name: DB_USER
+              value: postgres
+            - name: DB_PORT
+              value: "5432"
+            - name: NOTIFICATION_EMAIL
+              value: "patrick.danto@confidensia.fr"
+            - name: SENDER_EMAIL
+              value: "patrick.danto@bmse.fr"
+            - name: DB_PASSWORD
+              valueFrom:
+                secretKeyRef:
+                  name: DB_PASSWORD
+                  key: latest
+            - name: SERPER_API_KEY
+              valueFrom:
+                secretKeyRef:
+                  name: SERPER_API_KEY
+                  key: latest
+            - name: GEMINI_API_KEY
+              valueFrom:
+                secretKeyRef:
+                  name: GEMINI_API_KEY
+                  key: latest
+            - name: ELASTICMAIL_API_KEY
+              valueFrom:
+                secretKeyRef:
+                  name: ELASTICMAIL_API_KEY
+                  key: latest
+            resources:
+              limits:
+                cpu: "1"
+                memory: 512Mi
+          maxRetries: 0
+          timeoutSeconds: 21600
+          serviceAccountName: habitat-enrich-sa@gen-lang-client-0230548399.iam.gserviceaccount.com

@@ -1,0 +1,163 @@
+dirigeant_id,prenom,nom,fonction_normalisee,fonction_brute,confiance,email_reconstitue,email_organisation,id_gestionnaire,raison_sociale,domaine_mail
+71067,Marcel,HERPSON,Directeur Qualité,Directeur Qualité,moyenne,marcel.herpson@adapei-aria.com,@adapei-aria.com,850012436,ADAPEI - ARIA DE VENDEE,adapei-aria.com
+71066,Stephanie,Dublanc,Responsable qualité,Responsable qualité,moyenne,stephanie.dublanc@adapei-aria.com,@adapei-aria.com,850012436,ADAPEI - ARIA DE VENDEE,adapei-aria.com
+70970,Blandine,MECHELAERE (DESCHODT),Responsable Qualité,Responsable Qualité,haute,blandine.mechelaeredeschodt@adapei27.fr,@adapei27.fr,270028269,ADAPEI 27,adapei27.fr
+70975,...,...,Responsable Qualité/Sécurité,Responsable Qualité/Sécurité,haute,,@adapei28.fr,280504002,ADAPEI 28 LES PAPILLONS BLANCS,adapei28.fr
+70922,Anita,BOUYER,Responsable qualité,Responsable qualité,haute,anita.bouyer@adapei53.fr,@adapei53.fr,530031434,ADAPEI 53,adapei53.fr
+70919,Priscilia,Chiocconi,Responsable qualité,Responsable qualité,moyenne,priscilia.chiocconi@adapei01.fr,@adapei01.fr,010785897,ADAPEI DE L'AIN,adapei01.fr
+70916,Claire,MOREAU,Responsable qualité,Responsable qualité,haute,claire.moreau@adapei01.fr,@adapei01.fr,010785897,ADAPEI DE L'AIN,adapei01.fr
+70917,Julie,NEYROUD,Responsable Qualité et gestion des risques,Responsable Qualité et gestion des risques,haute,julie.neyroud@adapei01.fr,@adapei01.fr,010785897,ADAPEI DE L'AIN,adapei01.fr
+70969,Valérie,ROLIN,Responsable qualité risques,Responsable qualité risques,haute,,@adapei-drome.org,260006911,ADAPEI DE LA DRÔME,adapei-drome.org
+71050,Guillaume,Gardin,directeur innovation recherche et développement,directeur innovation recherche et développement,haute,guillaume.gardin@adapei42.fr,@adapei42.fr,420787046,ADAPEI DE LA LOIRE,adapei42.fr
+70960,Marine,Duranquet,Technicienne qualité,Technicienne qualité,moyenne,,@adapei63.fr,630786275,ADAPEI DU PUY-DE-DOME,adapei63.fr
+70961,Anne-Sophie,Gouëzel,Responsable Qualité (ancien),Responsable Qualité (ancien),moyenne,annesophie.gouezel@adapei-nouelles.fr,@adapei-nouelles.fr,220005805,ADAPEI NOUELLES COTES D'ARMOR,adapei-nouelles.fr
+70971,Anne,Wertenberg,Responsable qualité,Responsable qualité,haute,,@adapeipapillonsblancs.alsace,680011475,ADAPEI PAPILLONS BLANCS D'ALSACE,adapeipapillonsblancs.alsace
+70972,Janou,KOKE,Responsable Qualité,Responsable Qualité,moyenne,,@adapeipapillonsblancs.alsace,680011475,ADAPEI PAPILLONS BLANCS D'ALSACE,adapeipapillonsblancs.alsace
+70974,Stéphane,DRAN,Responsable Qualité,Responsable Qualité,haute,stephane.dran@aleos.asso.fr,@aleos.asso.fr,680002862,ALEOS,aleos.asso.fr
+71001,Chrystel,DEVAUX,Responsable Qualité - Gestion des Risques,Responsable Qualité - Gestion des Risques,haute,chrystel.devaux@infos-handicaps.apf-francehandicap.org,@infos-handicaps.apf-francehandicap.org,750719239,APF FRANCE HANDICAP,infos-handicaps.apf-francehandicap.org
+71002,Charlotte,Evain,Responsable Qualité Régionale Bretagne,Responsable Qualité Régionale Bretagne,moyenne,charlotte.evain@infos-handicaps.apf-francehandicap.org,@infos-handicaps.apf-francehandicap.org,750719239,APF FRANCE HANDICAP,infos-handicaps.apf-francehandicap.org
+11937,Annabelle,MARINOT,Directeur Innovation,Directrice innovation sociale chez API Provence,haute,annabelle.marinot@apiprovence.org,@apiprovence.org,060017399,API PROVENCE,apiprovence.org
+14284,Gwenaelle,FLEURY,Directeur Innovation,Project manager - Technical interoperabilty,moyenne,,@fr.ap-hm.fr,130786049,ASSISTANCE PUBLIQUE DES HOPITAUX DE MARSEILLE,
+70968,Daniel,Coissard,Directeur Innovation Numérique,Directeur Innovation Numérique,moyenne,daniel.coissard@arsea.fr,@arsea.fr,670794163,"ASSOC REGIONALE D'ACTION SOCIALE, D'EDUCATION ET D'ANIMATION",arsea.fr
+43097,Meddy,ESCURIET,Directeur Innovation,"Docteur en géographie, développeur d'innovations sociales",moyenne,meddy.escuriet@ladapt.net,@ladapt.net,750078149,ASSOCIATION  LADAPT,ladapt.net
+68966,Olivier,AVICE,Directeur Innovation,"Créateur de changement, porté par l'innovation permanente et très orienté résultats",moyenne,,@carrefour.com,570010157,"ASSOCIATION ""CARREFOUR""",
+70920,Emilie,Séguin Legallais,Responsable qualité,Responsable qualité,haute,,@associations.saint-quentin.fr,020005260,ASSOCIATION ACCUEIL ET PROMOTION,associations.saint-quentin.fr
+70921,Florian,Roussel,Responsable Qualité & Achats,Responsable Qualité & Achats,haute,,@associations.saint-quentin.fr,020005260,ASSOCIATION ACCUEIL ET PROMOTION,associations.saint-quentin.fr
+35612,Benoît,BONELLO,Directeur Innovation,Directeur Innovation,haute,,@asso-agu54.org,540015708,ASSOCIATION AGU 54,
+71005,Agnès,D.,Directrice Qualité et Maitrise des Risques,Directrice Qualité et Maitrise des Risques,haute,,@aurore.asso.fr,750719361,ASSOCIATION AURORE,aurore.asso.fr
+71043,Camille,BOCCHIERI,responsable qualité,responsable qualité,haute,,@asso-caminante.fr,400013991,ASSOCIATION CAMINANTE,asso-caminante.fr
+71042,Effie-Belle,RINGENBACH,Responsable qualité,Responsable qualité,moyenne,,@asso-caminante.fr,400013991,ASSOCIATION CAMINANTE,asso-caminante.fr
+71033,Belco,DOUMBIA,Responsable Qualité/Risques,Responsable Qualité/Risques,haute,belco.doumbia@capdevant.fr,@capdevant.fr,750831901,ASSOCIATION CAP DEVANT,capdevant.fr
+71039,Celine,GENEVE DUVILLARD,"Responsable qualité, sécurité et système d'informations","Responsable qualité, sécurité et système d'informations",haute,,@association.championnet-asso.fr,750721219,ASSOCIATION CHAMPIONNET,association.championnet-asso.fr
+71004,Emmanuel,Brasseur,"Directeur qualité, audit et maîtrise des risques","Directeur qualité, audit et maîtrise des risques",haute,emmanuel.brasseur@coallia.org,@coallia.org,750825846,ASSOCIATION COALLIA,coallia.org
+36819,Moussa,TOURÉ,Directeur Innovation,Growth & Partnerships Lead,moyenne,,@vuesdici.home.blog,880009543,ASSOCIATION COURTE-ECHELLE,
+70942,Fanny,Asselin-Doyer,Assistante de direction et Responsable qualité,Assistante de direction et Responsable qualité,moyenne,,@aaedk.org,590805180,ASSOCIATION D'ACTION ÉDUCATIVE ET SOCIALE,aaedk.org
+70941,Laurène,Majchrzak,Chargée de mission Qualité - Gestion des risques,Chargée de mission Qualité - Gestion des risques,haute,,@aaedk.org,590805180,ASSOCIATION D'ACTION ÉDUCATIVE ET SOCIALE,aaedk.org
+71081,Mailys,XOUAL,Responsable Qualité,Responsable Qualité,haute,,@association-prevention-soins-insertion.fr,940715170,ASSOCIATION DE PREVENTION SOINS ET INSERTION,association-prevention-soins-insertion.fr
+70989,Daniel,Coissard,Directeur Innovation Numérique,Directeur Innovation Numérique,haute,daniel.coissard@pep71.org,@pep71.org,710781618,ASSOCIATION DEPARTEMENTALE LES PEP 71,pep71.org
+70988,Augustin,Petit,Responsable qualité,Responsable qualité,haute,augustin.petit@pep71.org,@pep71.org,710781618,ASSOCIATION DEPARTEMENTALE LES PEP 71,pep71.org
+70945,Sylvie,Rocher,Responsable Qualité,Responsable Qualité,haute,,@aajb.fr,140008905,ASSOCIATION DES AMIS DE JEAN BOSCO,aajb.fr
+70992,Sophie,Magnaval,"Directrice qualité, RSE et digitalisation des activités","Directrice qualité, RSE et digitalisation des activités",haute,,@secours-catholique.org,310021993,ASSOCIATION DES CITES DU SECOURS CATHOLIQUE,secours-catholique.org
+70993,Nathalie,Sadoux,Responsable qualité social et médico-social,Responsable qualité social et médico-social,haute,,@secours-catholique.org,310021993,ASSOCIATION DES CITES DU SECOURS CATHOLIQUE,secours-catholique.org
+70944,Inconnu,Inconnu,responsable qualité,responsable qualité,haute,inconnu.inconnu@papillonsblancshazebrouck.org,@papillonsblancshazebrouck.org,590807517,ASSOCIATION DES PAPILLONS BLANCS D'HAZEBROUCK,papillonsblancshazebrouck.org
+70939,Maëlle,GALLON,Responsable Qualité,Responsable Qualité,haute,,@papillonsblancs-dunkerque.fr,590800215,ASSOCIATION DES PAPILLONS BLANCS DE DUNKERQUE,papillonsblancs-dunkerque.fr
+70940,Edith,LARDEUR,Responsable Qualité,Responsable Qualité,haute,,@papillonsblancs-dunkerque.fr,590800215,ASSOCIATION DES PAPILLONS BLANCS DE DUNKERQUE,papillonsblancs-dunkerque.fr
+70978,Estelle,Le Rouzic,Responsable Qualité Régionale,Responsable Qualité Régionale,moyenne,estelle.lerouzic@don-bosco.net,@don-bosco.net,290007392,ASSOCIATION DON BOSCO,don-bosco.net
+71011,Leslie,Bajart,Responsable Qualité - Affaires Réglementaires,Responsable Qualité - Affaires Réglementaires,moyenne,,@emmaus-solidarite.org,750806580,ASSOCIATION EMMAÜS SOLIDARITE,emmaus-solidarite.org
+71080,...,...,Responsable qualité,Responsable qualité,moyenne,,@eu-asso.fr,940031339,ASSOCIATION ENTRAIDE UNION,eu-asso.fr
+71053,Laura,Viaud,responsable qualité,responsable qualité,haute,laura.viaud@equalis.org,@equalis.org,770023539,ASSOCIATION EQUALIS,equalis.org
+71054,Aline,Morel,Responsable Qualité Association,Responsable Qualité Association,haute,aline.morel@equalis.org,@equalis.org,770023539,ASSOCIATION EQUALIS,equalis.org
+71055,Andrea,NICOLAS,responsable qualité et communication,responsable qualité et communication,haute,andrea.nicolas@equalis.org,@equalis.org,770023539,ASSOCIATION EQUALIS,equalis.org
+58018,Emmanuel,GARELLI,Directeur Innovation,Directeur des Supports et de l'Innovation chez ASSOCIATION GRIM,haute,,@mairie8.lyon.fr,690002381,ASSOCIATION GRIM,
+71023,Baptiste,Foulon,"Directeur Qualité, Ethique, et Développement","Directeur Qualité, Ethique, et Développement",moyenne,baptiste.foulon@hovia.fr,@hovia.fr,750721029,ASSOCIATION HOVIA,hovia.fr
+71022,Patricia,Rodriguez,Responsable Qualité en ESMS,Responsable Qualité en ESMS,haute,patricia.rodriguez@hovia.fr,@hovia.fr,750721029,ASSOCIATION HOVIA,hovia.fr
+70929,Alix,DEREIMS,Responsable qualité certifiée - Evaluatrice des ESSMS certifiée,Responsable qualité certifiée - Evaluatrice des ESSMS certifiée,moyenne,,@isatis.org,060020443,ASSOCIATION ISATIS,isatis.org
+71028,Alexandra,KARMANN,responsable qualité,responsable qualité,haute,,@jean-cotxet.fr,750720351,ASSOCIATION JEAN COTXET,jean-cotxet.fr
+70980,Corinne,HELLO,Responsable qualité,Responsable qualité,moyenne,,@kanarmor.fr,290007475,ASSOCIATION KAN AR MOR,kanarmor.fr
+70979,Sabine,STÉPHANNO,Responsable qualité,Responsable qualité,haute,,@kanarmor.fr,290007475,ASSOCIATION KAN AR MOR,kanarmor.fr
+70996,Marion,COLCY,Directrice qualité,Directrice qualité,haute,marion.colcy@alprado.fr,@alprado.fr,330781691,ASSOCIATION LAÏQUE LE PRADO,alprado.fr
+71056,Christine,Bonnet,Responsable Qualité,Responsable Qualité,moyenne,,@closdunid.fr,480782119,ASSOCIATION LE CLOS DU NID,closdunid.fr
+61226,Ill,Einhorn,Directeur Innovation,directeur de l'innovation et de,haute,,@ollon.ch,690005178,ASSOCIATION LES GENTIANES,
+71031,Olivier,VANQUAETHEM,Responsable qualité,Responsable qualité,haute,,@moissonsnouvelles.fr,750720831,ASSOCIATION MOISSONS NOUVELLES,moissonsnouvelles.fr
+71030,Gilles,Bouffin,Responsable Qualité – Évaluation,Responsable Qualité – Évaluation,haute,,@moissonsnouvelles.fr,750720831,ASSOCIATION MOISSONS NOUVELLES,moissonsnouvelles.fr
+36628,Marine,CALAZEL,Directeur Innovation,"Directrice innovation sociale, recherche et qualité",haute,marine.calazel@anras.fr,@anras.fr,310788609,ASSOCIATION NATIONALE DE RECHERCHE ET D'ACTION SOLIDAIRE,anras.fr
+70991,Sandrine,PARRE,responsable qualité et RSE,responsable qualité et RSE,haute,sandrine.parre@anras.fr,@anras.fr,310788609,ASSOCIATION NATIONALE DE RECHERCHE ET D'ACTION SOLIDAIRE,anras.fr
+71065,Antoine,CHICHOUX,Responsable qualité,Responsable qualité,haute,antoine.chichoux@phar83.fr,@phar83.fr,830025615,ASSOCIATION PHAR83,phar83.fr
+71069,Patrice,WAREMBOURG,Directeur Innovation et Promotion de la personne,Directeur Innovation et Promotion de la personne,moyenne,,@apajh.org,910808948,ASSOCIATION POUR ADULTES ET JEUNES HANDICAPES,apajh.org
+70990,Luc,ASTOUL,responsable qualité,responsable qualité,haute,luc.astoul@asei.asso.fr,@asei.asso.fr,310781562,ASSOCIATION POUR LA SAUVEGARDE DES ENFANTS INVALIDES,asei.asso.fr
+71015,Delphine,HAMIACHE,responsable qualité grande couronne,responsable qualité grande couronne,haute,,@aljt.com,750826117,ASSOCIATION POUR LE LOGEMENT DES JEUNES TRAVAILLEURS,aljt.com
+63466,,Directeur Recherche et Développement,Directeur Innovation,Directeur Recherche et Développement,haute,,,610787657,ASSOCIATION POUR LE LOGEMENT TEMPORAIRE ET L'HEBERGEMENT,althea.asso.fr
+70999,Marie,Moreau,Responsable Qualité Communication Système d'information,Responsable Qualité Communication Système d'information,haute,marie-moreau@renovation.asso.fr,@renovation.asso.fr,330785072,ASSOCIATION RENOVATION,renovation.asso.fr
+70998,Valérie,Mellas,Responsable qualité Evaluation du Secteur Social et Médico-Social,Responsable qualité Evaluation du Secteur Social et Médico-Social,haute,valerie-mellas@renovation.asso.fr,@renovation.asso.fr,330785072,ASSOCIATION RENOVATION,renovation.asso.fr
+71029,Léna,Eschbach,Responsable Qualité-Gestion Des Risques Et Développement,Responsable Qualité-Gestion Des Risques Et Développement,haute,,@societe-philanthropique.fr,750720492,ASSOCIATION SOCIETE PHILANTHROPIQUE,societe-philanthropique.fr
+60917,Ludiwine,VANDEPUTTE,Directeur Innovation,Directeur recherche et développement,haute,,@adoc.pub,590043303,ASSOCIATION SOURDMEDIA,
+21336,Gaelle,ROMEYER,Directeur Innovation,Référent.e Méthodes et amélioration continue,moyenne,,@ressources.seinesaintdenis.fr,930815865,ASSOCIATION VIVRE AUTREMENT,
+60001,Emmanuelle,COUVAL,Directeur Innovation,Directeur Innovation et,haute,,@fondationdesfemmes.org,690055256,AU TAMBOUR,
+57774,Hamid,Ait Bella,Directeur Innovation,Directeur de l'innovation,moyenne,,@fondation-amisdelatelier.org,620027185,AUTISME & FAMILLES,autisme-et-familles.fr
+70912,Ophélie,Deshais,Responsable Qualité,Responsable Qualité,haute,o.deshais@cap-lan.fr,@cap-lan.fr,440004315,CAP LAN,cap-lan.fr
+70913,Alexandre,DUMAND,responsable qualité et gestion des risques,responsable qualité et gestion des risques,haute,a.dumand@cap-lan.fr,@cap-lan.fr,440004315,CAP LAN,cap-lan.fr
+56698,Antony,HIRTZLIN,Directeur Innovation,Digital Transformation Lead at UCB,moyenne,,@torop.net,700000250,CAP'FUTUR,
+10298,Pierre,MIGNON,Directeur Innovation,Ingénieur Biomédical & Innovation,moyenne,,@ccbugeysud.com,010780062,CENTRE HOSPITALIER BUGEY SUD,
+43582,Clément,LATOUR,Directeur Qualité & Risques,Responsable Qualité & Risques du Centre Hospitalier de Carpentras,haute,,@ch-avignon.fr,840000046,CENTRE HOSPITALIER DE CARPENTRAS,
+22943,Christophe,LAURE,Directeur Innovation,Directeur de la recherche clinique et de l'innovation des hôpitaux de Chartres,haute,,@fhf.fr,280000134,CENTRE HOSPITALIER DE CHARTRES,ch-chartres.fr
+29782,Benoit,ROULIN,Directeur Innovation,Directeur technique - R&D Innovation,haute,,@fhf.fr,380780098,CENTRE HOSPITALIER DE TULLINS,
+64768,Aurélie,DESPUJOLS,Directeur Innovation,Responsable de la direction de la recherche et de l'innovation,haute,,@chu-orleans.fr,450000088,CENTRE HOSPITALIER UNIVERSITAIRE D'ORLEANS,chu-orleans.fr
+44111,Laurent,Malato,Directeur Innovation,Medical and Scientific Project Manager,moyenne,,@chu-bordeaux.fr,330781196,CENTRE HOSPITALIER UNIVERSITAIRE DE BORDEAUX,chu-bordeaux.fr
+61286,Émilie,DUPUIS,Directeur Innovation,Responsable Pôle Gestion Direction de la Recherche et Innovation,haute,,@izeria.com,590780193,CENTRE HOSPITALIER UNIVERSITAIRE DE LILLE,
+34091,Arnaud,ARTAZ,Directeur Innovation,Chef de projet informatique / Administrateur ERP,basse,,@limoges.fr,870000015,CENTRE HOSPITALIER UNIVERSITAIRE DE LIMOGES,
+48783,Stéphane,KIRCHE,Directeur Innovation,"Directeur des Technologies en Santé, de l'Innovation, de l'Ingénierie",haute,,@fhf.fr,710780958,CH WILLIAM MOREY CHALON SUR SAONE,
+25956,Sylvie,BÉDARD,Directeur Innovation,Stratège marketing et en IA de sens et Prospectiviste,moyenne,,@ised-isde.canada.ca,940028004,CHOIX PLUS,
+63065,Cleon,Kanellis,Directeur Innovation,"Insights, Analytics & Tech Leader",moyenne,,@lactanet.ca,690050513,CLEON,
+45279,Frédéric,VASSE,Directeur Innovation,"Directeur Innovation-recherche de l'association Auxilia, Directeur du",haute,,@shs.hal.science,330004359,COMITE ETUDE INFORMATION DROGUE,
+67676,Simon-Pierre,DELORD,Directeur Innovation,Responsable développement nouveaux produits,moyenne,,@emmaus-defi.org,570024232,COMMUNAUTE EMMAUS FRANCE,
+70995,Sandrine,CAMBIN,Responsable Qualité,Responsable Qualité,haute,savs -belvedere@deltha -savoie.org,@savoie.fr,730784816,DELTHA SAVOIE,savoie.fr
+20051,Mérédith,MOREAU,Directeur Qualité,Ingénieure qualité et risques associés aux soins,basse,,@adiph.org,270001076,EHPAD  LES QUATRE VENTS,
+34142,Mounir,Mokhtari,Directeur Innovation,Enseignant chercheur au sein de la filiale Tic & santé Montpellier de l'institut Mines-Télécom,basse,,@documentation.ehesp.fr,870010709,ETABLISSEMENT HEBERGEANT DES PERSONNES AGEES DEPENDANTES,
+23937,Pierre,MIGNON,Directeur Innovation,Ingénieur Biomédical & Innovation chez GHND,moyenne,,@favron.org,280000233,ETABLISSEMENT PUBLIC AUTONOME,
+13674,Pierre,MIGNON,Directeur Innovation,Ingénieur Biomédical & Innovation chez GHND,moyenne,,@favron.org,130046899,ETABLISSEMENT PUBLIC AUTONOME,
+26034,Pierre,MIGNON,Directeur Innovation,Ingénieur Biomédical & Innovation chez GHND — Graphique ETABLISSEMENT PUBLIC AUTONOME DE BEAUVOISIN. Ingénieur biomédical. ETABLISSEMENT PUBLIC AUTONOME DE BEAUVOISIN. août 2011 - aujourd'hui 14 ans 7 mois.,haute,,@infonet.fr,300014198,ETABLISSEMENT PUBLIC AUTONOME DE BEAUVOISIN,
+71047,Manon,F.,Responsable de service qualité,Responsable de service qualité,haute,manon.f@admr44.org,@admr44.org,420001695,FEDERATION ADMR LOIRE,admr44.org
+71048,Laetitia,DRUTEL,Responsable Performance & Qualité DSI,Responsable Performance & Qualité DSI,haute,laetitia.drutel@admr44.org,@admr44.org,420001695,FEDERATION ADMR LOIRE,admr44.org
+71061,Anne-Marie,Tricoire,Responsable Qualité,Responsable Qualité,haute,,@fassic.org,490020773,FONDATION ACTION SANITAIRE SOCIALE D'INSPIRATION CHRETIENNE,fassic.org
+71063,Alexis,CHAUVEAU,Directeur qualité,Directeur qualité,moyenne,,@fbs50.fr,500010384,FONDATION BON SAUVEUR DE LA MANCHE,fbs50.fr
+20635,Eva,GAUCLÈRE,Directeur Innovation,Cheffe de Projets Data et Innovations,moyenne,,@hospimedia.fr,950000984,FONDATION CHABRAND THIBAULT,
+36738,Giorgia,CERIANI SEBREGONDI,Directeur Innovation,"Directrice de la communication, du mécénat, de l'innovation et de la prospective",haute,giorgia.cerianisebregondi@cognacq-jay.fr,@cognacq-jay.fr,750720468,FONDATION COGNACQ-JAY,cognacq-jay.fr
+71057,Marnelle,Jean-Baptiste,Responsable qualité et gestion des risques,Responsable qualité et gestion des risques,haute,marnelle.jeanbaptiste@fondationdiaconesses.org,@lesdiaconesses.org,780020715,FONDATION DIACONESSES DE REUILLY,lesdiaconesses.org
+71058,Séverine,Langlet,Responsable Qualité Evaluation du Secteur Social et Médico sociale,Responsable Qualité Evaluation du Secteur Social et Médico sociale,moyenne,severine.langlet@lesdiaconesses.org,@lesdiaconesses.org,780020715,FONDATION DIACONESSES DE REUILLY,lesdiaconesses.org
+71051,Jody,SURIER,Responsable Qualité et gestion des risques,Responsable Qualité et gestion des risques,moyenne,jody.surier@fondationpoidatz.com,@fondationpoidatz.com,770700029,FONDATION ELLEN POIDATZ,fondationpoidatz.com
+71040,Jocelyne,Marsallon,responsable qualité de vie,responsable qualité de vie,moyenne,jocelyne.marsallon@falret.org,@falret.org,750804767,FONDATION FALRET,falret.org
+70951,Céline,Varret,Responsable Qualité,Responsable Qualité,moyenne,celine.varret@fondationjacqueschirac.fr,@fondationjacqueschirac.fr,190011304,FONDATION JACQUES CHIRAC,fondationjacqueschirac.fr
+70964,Damien,Baudry,Directeur Qualité,Directeur Qualité,haute,damien.baudry@johnbost.org,@johnbost.org,240000265,FONDATION JOHN BOST,johnbost.org
+70963,Agnès,Martinet,Responsable qualité,Responsable qualité,haute,agnes.martinet@johnbost.org,@johnbost.org,240000265,FONDATION JOHN BOST,johnbost.org
+71034,Catherine,CAVAN,Responsable qualité,Responsable qualité,haute,catherine.cavan@elan-retrouve.org,@elan-retrouve.org,750721391,FONDATION L'ELAN RETROUVE,elan-retrouve.org
+71018,Agathe,FAURE,Directeur Qualité et gestion des risques,Directeur Qualité et gestion des risques,haute,,@bellan.fr,750720609,FONDATION LEOPOLD BELLAN,bellan.fr
+71017,Adeline,BOURDIER,Responsable qualité,Responsable qualité,haute,,@bellan.fr,750720609,FONDATION LEOPOLD BELLAN,bellan.fr
+71019,Noémie,Ribet,Responsable Qualité Gestion des risques,Responsable Qualité Gestion des risques,haute,,@bellan.fr,750720609,FONDATION LEOPOLD BELLAN,bellan.fr
+71016,Clara,Podolak,Responsable qualité pour le secteur Enfants,Responsable qualité pour le secteur Enfants,haute,,@bellan.fr,750720609,FONDATION LEOPOLD BELLAN,bellan.fr
+71044,Élodie,Noël,Alternante Responsable Qualité,Alternante Responsable Qualité,moyenne,elodie.noel@lesnids.fr,@lesnids.fr,760009779,FONDATION LES NIDS,lesnids.fr
+24537,Jeremy,Thomas,Directeur Innovation,Directeur de la transition numérique,basse,,@fmt.bzh,290007459,FONDATION MASSE TREVIDY,fmt.bzh
+70976,Lidia,Le,Responsable Qualité et DPO,Responsable Qualité et DPO,haute,le.lidia@fmt.bzh,@fmt.bzh,290007459,FONDATION MASSE TREVIDY,fmt.bzh
+70977,Lydia,Le,Responsable Qualité et DPO,Responsable Qualité et DPO,haute,le.lydia@fmt.bzh,@fmt.bzh,290007459,FONDATION MASSE TREVIDY,fmt.bzh
+70947,Annabelle,KAPPERT,Responsable qualité prévention et sécurité,Responsable qualité prévention et sécurité,haute,annabelle.kappert@normandie-generations.fr,@normandie-generations.fr,610787764,FONDATION NORMANDIE GENERATIONS,normandie-generations.fr
+71072,Jean,Mathy,Directeur Innovation & Stratégie,Directeur Innovation & Stratégie,haute,jean.mathy@perce-neige.org,@perce-neige.org,920809829,FONDATION PERCE NEIGE,perce-neige.org
+71071,Cathy,Maurin,Responsable qualité,Responsable qualité,moyenne,cathy.maurin@perce-neige.org,@perce-neige.org,920809829,FONDATION PERCE NEIGE,perce-neige.org
+71070,Gwenaelle,Tschudin,Responsable qualité,Responsable qualité,haute,gwenaelle.tschudin@perce-neige.org,@perce-neige.org,920809829,FONDATION PERCE NEIGE,perce-neige.org
+71082,Christine,HOARAU-DUPUCHE,Responsable Qualité et Projets,Responsable Qualité et Projets,haute,christine.hoaraudupuche@favron.org,@favron.org,970430898,FONDATION PERE FAVRON,favron.org
+71037,Emmanuelle,PRINCE,Directrice Qualité et Engagement,Directrice Qualité et Engagement,haute,emmanuelle.prince@fondation-saintjeandedieu.fr,@fondation-saintjeandedieu.fr,750052037,FONDATION SAINT JEAN DE DIEU,fondation-saintjeandedieu.fr
+71035,Audrey,Le Bœuf,responsable Qualité,responsable Qualité,haute,audrey.lebuf@fondation-saintjeandedieu.fr,@fondation-saintjeandedieu.fr,750052037,FONDATION SAINT JEAN DE DIEU,fondation-saintjeandedieu.fr
+71036,Adrien,Briqué-Pellet,"Responsable qualité, gestion des risques et développement durable","Responsable qualité, gestion des risques et développement durable",haute,adrien.briquepellet@fondation-saintjeandedieu.fr,@fondation-saintjeandedieu.fr,750052037,FONDATION SAINT JEAN DE DIEU,fondation-saintjeandedieu.fr
+71014,Carole,Cérignat,Responsable Qualité en charge des opérations,Responsable Qualité en charge des opérations,haute,carole.cerignat@france-terre-asile.org,@france-terre-asile.org,750806598,FRANCE TERRE D'ASILE,france-terre-asile.org
+20354,Emmanuel,GARELLI,Directeur Innovation,Directeur des Supports et de l'Innovation,haute,,@fondationdubocage.org,950045328,GARELLI,
+17138,Cyril,BRUN,Directeur Innovation,"Directeur Développement, Innovation, Qualité et du Pôle Habitat inclusif et incubation. GCSMS APAJH 22-29-35",haute,,@managersdelactionsociale.fr,220024327,GCSMS APAJH 22-29-35,
+46193,Guy,FONTAINE,Directeur Innovation,Directeur du Développement et de l'Innovation,haute,,@groupe-sos.org,750710154,GROUPE SOS JEUNESSE,groupe-sos.org
+71012,Sandrine,Sileber,Responsable qualité,Responsable qualité,haute,sandrine.sileber@groupe-sos.org,@groupe-sos.org,750710154,GROUPE SOS JEUNESSE,groupe-sos.org
+71013,Juliette,Devos,Responsable qualité en protection de l'enfance,Responsable qualité en protection de l'enfance,haute,juliette.devos@groupe-sos.org,@groupe-sos.org,750710154,GROUPE SOS JEUNESSE,groupe-sos.org
+71007,Georges,AYEBIE,Responsable Qualité Gestion des Risques,Responsable Qualité Gestion des Risques,haute,georges.ayebie@groupe-sos.org,@groupe-sos.org,750015968,GROUPE SOS SOLIDARITES,groupe-sos.org
+70937,Muriel,FORCAULT,Directeur qualité,Directeur qualité,haute,muriel.forcault@gapas.org,@gapas.org,590001681,GROUPEMENT DES ASSOCIATIONS PARTENAIRES D'ACTION SOCIALE,gapas.org
+70938,Sandrine,PARRE,Responsable qualité et RSE,Responsable qualité et RSE,haute,sandrine.parre@gapas.org,@gapas.org,590001681,GROUPEMENT DES ASSOCIATIONS PARTENAIRES D'ACTION SOCIALE,gapas.org
+70982,Corinne,RECEVEUR VAUCHER,Responsable qualité et relations avec les usagers,Responsable qualité et relations avec les usagers,haute,corinne-receveurvaucher@itinova.org,@itinova.org,690793195,ITINOVA,itinova.org
+70981,Julie,Veillet,Responsable qualité multi-sites - EHPAD,Responsable qualité multi-sites - EHPAD,haute,julie-veillet@itinova.org,@itinova.org,690793195,ITINOVA,itinova.org
+37324,Romuald,Bazié,Directeur Innovation,Ingénieur Bio-informatiques,basse,,@fondation.credit-cooperatif.coop,310024286,LA MAISON GOUDOULI,
+70954,Marine,MONEL,Responsable qualité,Responsable qualité,haute,,@vieactive.fr,620110650,LA VIE ACTIVE,vieactive.fr
+70953,Yannick,WAVELET,Responsable qualité,Responsable qualité,haute,,@vieactive.fr,620110650,LA VIE ACTIVE,vieactive.fr
+71074,Stéphane,CHEVALIER,Responsable Qualité,Responsable Qualité,moyenne,stephane.chevalier@fondationlavieaugrandair.org,@fondationlavieaugrandair.org,920026838,LA VIE AU GRAND AIR - PRIORITÉ ENFANCE,fondationlavieaugrandair.org
+70957,Séverine,MERCIER,Responsable Qualité,Responsable Qualité,haute,s.mercier@lespep.org,@lespep.org,210013041,LES PEP CBFC,lespep.org
+70956,Amine,Mouadden,Responsable Qualité Associatif BFC,Responsable Qualité Associatif BFC,haute,a.mouadden@lespep.org,@lespep.org,210013041,LES PEP CBFC,lespep.org
+17090,Isabelle,ARHANT,Directeur Innovation,directrice des activités innovantes,haute,,@fondationdelavenir.org,220020531,MUTUALITE FRANCAISE COTES D'ARMOR,
+36514,Olivier,BLAISE,Directeur Innovation,Développeur territorial | Analyse des pratiques,moyenne,,@strapi-upload.cdn.fondation-patrimoine.org,540010188,"MUTUELLE "" LES SABLONS """,
+70983,Claire,Ferrand,Responsable Qualité SMQ GROUPE,Responsable Qualité SMQ GROUPE,moyenne,claire.ferrand@odyneo.fr,@odyneo.fr,690791108,ODYNEO,odyneo.fr
+70926,Stéphane,DRAN,Responsable Qualité,Responsable Qualité,haute,,,540006707,OFFICE D'HYGIENE SOCIALE DE LORRAINE,
+49939,Bertrand,MARQUET,Directeur Innovation,"Innovation, partenariats et entrepreneuriat",haute,,@uniopss.asso.fr,340010180,"SAS ""LE COULAZOU""",
+71060,Xavier,BOULAND,Directeur Qualité et Performance,Directeur Qualité et Performance,haute,,@sauvegarde-yvelines.org,780708293,"SAUVEGARDE DE L'ENFANT, L'ADOLESCENT ET L'ADULTE EN YVELINES",sauvegarde-yvelines.org
+70932,Diane,Lefèvre,Responsable qualité multisites,Responsable qualité multisites,moyenne,,@saoe.fr,110011020,SESAME AUTISME OCCITANIE EST,saoe.fr
+50398,Annie,ROBICHAUD,Directeur Innovation,président Innovation & technologie,haute,,@mifo.ca,330016288,SYNERGY,
+71078,Hanane,EL FARAH,Responsable qualité,Responsable qualité,haute,,@groupe-ugecam.fr,930027347,UGECAM - ILE DE FRANCE,groupe-ugecam.fr
+71076,Evelyne,Visade,Responsable qualité,Responsable qualité,haute,,@groupe-ugecam.fr,930027347,UGECAM - ILE DE FRANCE,groupe-ugecam.fr
+71077,Mélanie,Chopard,Responsable qualité et gestion des risques de pôle,Responsable qualité et gestion des risques de pôle,haute,,@groupe-ugecam.fr,930027347,UGECAM - ILE DE FRANCE,groupe-ugecam.fr
+57253,Emilie,BARTHIER,Directeur Innovation,"Chargée de Projets Innovation, R&D",moyenne,,@mairie-tonneins.fr,470018094,UNA CONFLUENT GASCOGNE,
+70948,Laure,GERIN,Responsable Qualité au siège,Responsable Qualité au siège,haute,laure.gerin@unapei17.org,@unapei17.org,170788640,UNAPEI 17,unapei17.org
+70924,Fabienne,HOSPITAL,Responsable Qualité de la prestation,Responsable Qualité de la prestation,haute,fabienne.hospital@unapei03.fr,@unapei03.fr,030008064,UNAPEI PAYS D'ALLIER,unapei03.fr
+70925,Sandrine,Mercier,Responsable Qualité sécurité environnement,Responsable Qualité sécurité environnement,moyenne,sandrine.mercier@unapei03.fr,@unapei03.fr,030008064,UNAPEI PAYS D'ALLIER,unapei03.fr
+71025,Fanny,Saint-Genez-Breuneval,Responsable Qualité,Responsable Qualité,haute,fanny.saintgenezbreuneval@vivre-devenir.fr,@vivre-devenir.fr,750720534,VIVRE ET DEVENIR VILLEPINTE-SAINT-MICHEL,vivre-devenir.fr
+59100,Jawad,HAJJAM,Directeur Innovation,Directeur du Développement et de l'Innovation VyV3 Pays de la Loire,haute,,@groupe-vyv.fr,440061901,VYV3 PAYS DE LA LOIRE,pdl.vyv3.fr
+70911,Laurine,Coutelle,Responsable qualité,Responsable qualité,haute,,@pdl.vyv3.fr,440061901,VYV3 PAYS DE LA LOIRE,pdl.vyv3.fr

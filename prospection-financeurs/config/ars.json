@@ -1,0 +1,164 @@
+[
+  {
+    "code": "ARS-ARA",
+    "nom": "Auvergne-Rhône-Alpes",
+    "nom_complet": "Agence régionale de santé Auvergne-Rhône-Alpes",
+    "slug": "auvergne-rhone-alpes",
+    "site_web": "www.auvergne-rhone-alpes.ars.sante.fr",
+    "domaine_email": "ars.sante.fr",
+    "contacts": []
+  },
+  {
+    "code": "ARS-BFC",
+    "nom": "Bourgogne-Franche-Comté",
+    "nom_complet": "Agence régionale de santé Bourgogne-Franche-Comté",
+    "slug": "bourgogne-franche-comte",
+    "site_web": "www.bourgogne-franche-comte.ars.sante.fr",
+    "domaine_email": "ars.sante.fr",
+    "contacts": []
+  },
+  {
+    "code": "ARS-BRE",
+    "nom": "Bretagne",
+    "nom_complet": "Agence régionale de santé Bretagne",
+    "slug": "bretagne",
+    "site_web": "www.bretagne.ars.sante.fr",
+    "domaine_email": "ars.sante.fr",
+    "contacts": []
+  },
+  {
+    "code": "ARS-CVL",
+    "nom": "Centre-Val de Loire",
+    "nom_complet": "Agence régionale de santé Centre-Val de Loire",
+    "slug": "centre",
+    "site_web": "www.centre.ars.sante.fr",
+    "domaine_email": "ars.sante.fr",
+    "contacts": []
+  },
+  {
+    "code": "ARS-COR",
+    "nom": "Corse",
+    "nom_complet": "Agence régionale de santé de Corse",
+    "slug": "corse",
+    "site_web": "www.corse.ars.sante.fr",
+    "domaine_email": "ars.sante.fr",
+    "contacts": []
+  },
+  {
+    "code": "ARS-GE",
+    "nom": "Grand Est",
+    "nom_complet": "Agence régionale de santé Grand Est",
+    "slug": "grand-est",
+    "site_web": "www.grand-est.ars.sante.fr",
+    "domaine_email": "ars.sante.fr",
+    "contacts": []
+  },
+  {
+    "code": "ARS-GUA",
+    "nom": "Guadeloupe",
+    "nom_complet": "Agence régionale de santé de Guadeloupe",
+    "slug": "guadeloupe",
+    "site_web": "www.guadeloupe.ars.sante.fr",
+    "domaine_email": "ars.sante.fr",
+    "contacts": []
+  },
+  {
+    "code": "ARS-GUY",
+    "nom": "Guyane",
+    "nom_complet": "Agence régionale de santé de Guyane",
+    "slug": "guyane",
+    "site_web": "www.guyane.ars.sante.fr",
+    "domaine_email": "ars.sante.fr",
+    "contacts": []
+  },
+  {
+    "code": "ARS-HDF",
+    "nom": "Hauts-de-France",
+    "nom_complet": "Agence régionale de santé Hauts-de-France",
+    "slug": "hauts-de-france",
+    "site_web": "www.hauts-de-france.ars.sante.fr",
+    "domaine_email": "ars.sante.fr",
+    "contacts": []
+  },
+  {
+    "code": "ARS-IDF",
+    "nom": "Île-de-France",
+    "nom_complet": "Agence régionale de santé Île-de-France",
+    "slug": "ile-de-france",
+    "site_web": "www.iledefrance.ars.sante.fr",
+    "domaine_email": "ars.sante.fr",
+    "contacts": []
+  },
+  {
+    "code": "ARS-REU",
+    "nom": "La Réunion",
+    "nom_complet": "Agence régionale de santé de La Réunion",
+    "slug": "reunion",
+    "site_web": "www.lareunion.ars.sante.fr",
+    "domaine_email": "ars.sante.fr",
+    "contacts": []
+  },
+  {
+    "code": "ARS-MAR",
+    "nom": "Martinique",
+    "nom_complet": "Agence régionale de santé de Martinique",
+    "slug": "martinique",
+    "site_web": "www.martinique.ars.sante.fr",
+    "domaine_email": "ars.sante.fr",
+    "contacts": []
+  },
+  {
+    "code": "ARS-MAY",
+    "nom": "Mayotte",
+    "nom_complet": "Agence régionale de santé de Mayotte",
+    "slug": "mayotte",
+    "site_web": "www.mayotte.ars.sante.fr",
+    "domaine_email": "ars.sante.fr",
+    "contacts": []
+  },
+  {
+    "code": "ARS-NOR",
+    "nom": "Normandie",
+    "nom_complet": "Agence régionale de santé Normandie",
+    "slug": "normandie",
+    "site_web": "www.normandie.ars.sante.fr",
+    "domaine_email": "ars.sante.fr",
+    "contacts": []
+  },
+  {
+    "code": "ARS-NAQ",
+    "nom": "Nouvelle-Aquitaine",
+    "nom_complet": "Agence régionale de santé Nouvelle-Aquitaine",
+    "slug": "nouvelle-aquitaine",
+    "site_web": "www.nouvelle-aquitaine.ars.sante.fr",
+    "domaine_email": "ars.sante.fr",
+    "contacts": []
+  },
+  {
+    "code": "ARS-OCC",
+    "nom": "Occitanie",
+    "nom_complet": "Agence régionale de santé Occitanie",
+    "slug": "occitanie",
+    "site_web": "www.occitanie.ars.sante.fr",
+    "domaine_email": "ars.sante.fr",
+    "contacts": []
+  },
+  {
+    "code": "ARS-PDL",
+    "nom": "Pays de la Loire",
+    "nom_complet": "Agence régionale de santé Pays de la Loire",
+    "slug": "pays-de-la-loire",
+    "site_web": "www.pays-de-la-loire.ars.sante.fr",
+    "domaine_email": "ars.sante.fr",
+    "contacts": []
+  },
+  {
+    "code": "ARS-PAC",
+    "nom": "Provence-Alpes-Côte d'Azur",
+    "nom_complet": "Agence régionale de santé Provence-Alpes-Côte d'Azur",
+    "slug": "paca",
+    "site_web": "www.paca.ars.sante.fr",
+    "domaine_email": "ars.sante.fr",
+    "contacts": []
+  }
+]

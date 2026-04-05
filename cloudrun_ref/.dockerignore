@@ -1,0 +1,25 @@
+# Keep build context small
+.venv/
+venv/
+venv_pdf/
+__pycache__/
+.pytest_cache/
+.git/
+outputs/
+data/
+logs/
+
+# Secrets - NE JAMAIS inclure dans l'image Docker
+.env
+.env.*
+*.env
+
+*.csv
+*.jsonl
+*.parquet
+*.xlsx
+*.pdf
+*.png
+*.jpg
+*.jpeg
+*.webp

@@ -1,0 +1,66 @@
+apiVersion: run.googleapis.com/v1
+kind: Job
+metadata:
+  name: finess-enrich-national
+spec:
+  template:
+    spec:
+      taskCount: 1
+      template:
+        spec:
+          containers:
+          - image: europe-west1-docker.pkg.dev/gen-lang-client-0230548399/habitat/enrich@sha256:6e02f609e49c2967f42bcc11b3a5ecd76ff086e87002fe6832f114425b5e24a3
+            command:
+            - python
+            args:
+            - scripts/enrich_finess_dept.py
+            - --departements
+            - "01"  # Default value, will be overridden at execution
+            - --out-dir
+            - /tmp/outputs
+            env:
+            - name: PYTHONUNBUFFERED
+              value: "1"
+            - name: LLM_PROVIDER
+              value: "mistral"
+            - name: MISTRAL_MODEL
+              value: "mistral-small-latest"
+            - name: DB_HOST
+              value: db.minwoumfgutampcgrcbr.supabase.co
+            - name: DB_NAME
+              value: postgres
+            - name: DB_USER
+              value: postgres
+            - name: DB_PORT
+              value: "5432"
+            - name: DB_PASSWORD
+              valueFrom:
+                secretKeyRef:
+                  name: DB_PASSWORD
+                  key: latest
+            - name: SERPER_API_KEY
+              valueFrom:
+                secretKeyRef:
+                  name: SERPER_API_KEY
+                  key: latest
+            - name: MISTRAL_API_KEY
+              valueFrom:
+                secretKeyRef:
+                  name: MISTRAL_API_KEY
+                  key: latest
+            - name: ELASTICMAIL_API_KEY
+              valueFrom:
+                secretKeyRef:
+                  name: ELASTICMAIL_API_KEY
+                  key: latest
+            - name: NOTIFICATION_EMAIL
+              value: "patrick.danto@confidensia.fr"
+            - name: SENDER_EMAIL
+              value: "patrick.danto@bmse.fr"
+            resources:
+              limits:
+                cpu: "2"
+                memory: 1Gi
+          maxRetries: 0
+          timeoutSeconds: 86400
+          serviceAccountName: habitat-enrich-sa@gen-lang-client-0230548399.iam.gserviceaccount.com

@@ -1,0 +1,11 @@
+code_insee,commune,departement,code_departement,domain,domain_confidence,email_pattern,email_pattern_confidence,emails_domain_samples,drh_prenom,drh_nom,drh_poste,drh_confidence,drh_source_url,drh_email_public,drh_email_reconstitue,drh_email_confidence,drh_reason,dgs_prenom,dgs_nom,dgs_poste,dgs_confidence,dgs_source_url,dgs_email_public,dgs_email_reconstitue,dgs_email_confidence,dgs_reason
+77001,Achères-la-Forêt,Seine-et-Marne,77,achereslaforet.com,haute,,basse,,,,,basse,,,,basse,no_snippets,,,,basse,,,,basse,no_snippets
+77002,Annet-sur-Marne,Seine-et-Marne,77,annetsurmarne.com,haute,,basse,last@annetsurmarne.com,,,,basse,,,,basse,no_snippets,,,,basse,,,,basse,no_snippets
+77003,Arbonne-la-Forêt,Seine-et-Marne,77,arbonnelaforet.fr,haute,,basse,urbanisme@arbonnelaforet.fr,,,,basse,,,,basse,no_snippets,,,,basse,,,,basse,no_snippets
+77004,Argentières,Seine-et-Marne,77,argentieres77.wordpress.com,moyenne,,basse,,,,,basse,,,,basse,no_snippets,,,,basse,,,,basse,no_snippets
+77005,Aubepierre-Ozouer-le-Repos,Seine-et-Marne,77,aubepierre-ozouerlerepos.fr,haute,,basse,mairie@aubepierre-ozouerlerepos.fr,,,,basse,,,,basse,no_snippets,,,,basse,,,,basse,no_snippets
+77006,Aufferville,Seine-et-Marne,77,aufferville.fr,haute,,basse,,,,,basse,,,,basse,no_snippets,,,,basse,,,,basse,no_snippets
+77007,Augers-en-Brie,Seine-et-Marne,77,mairie-augers-en-brie.com,haute,,basse,,,,,basse,,,,basse,no_snippets,,,,basse,,,,basse,no_snippets
+77008,Aulnoy,Seine-et-Marne,77,aulnoy.fr,haute,,basse,,,,,basse,,,,basse,no_snippets,,,,basse,,,,basse,no_snippets
+77009,Avon,Seine-et-Marne,77,avon77.com,haute,prenom.nom,moyenne,administration@avon77.com | carridy.mayenga@avon77.com | mairie@avon77.com | mdlv@avon77.com,,,,basse,,,,basse,no_snippets,,,,basse,,,,basse,no_snippets
+77010,Bagneaux-sur-Loing,Seine-et-Marne,77,bagneauxsurloing.fr,haute,,basse,mairie@bagneauxsurloing.fr | setoile@bagneauxsurloing.fr,,,,basse,,,,basse,no_snippets,,,,basse,,,,basse,no_snippets

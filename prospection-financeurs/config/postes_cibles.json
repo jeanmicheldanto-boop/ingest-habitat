@@ -1,0 +1,121 @@
+{
+  "departement": [
+    {
+      "niveau": "dga",
+      "titres": [
+        "DGA Solidarités",
+        "DGA Solidarité et Prévention",
+        "DGA Action Sociale",
+        "DGA des Solidarités et de la Cohésion Sociale",
+        "DGA Solidarités Santé",
+        "DGAS",
+        "Directeur Général Adjoint Solidarités",
+        "Directrice Générale Adjointe Solidarités"
+      ]
+    },
+    {
+      "niveau": "direction",
+      "titres": [
+        "Directeur Autonomie",
+        "Directrice Autonomie",
+        "Directeur PA-PH",
+        "Directrice PA-PH",
+        "Directeur Personnes Âgées Personnes Handicapées",
+        "Directeur de l'Autonomie et du Handicap",
+        "Directeur Enfance Famille",
+        "Directrice Enfance Famille",
+        "Directeur ASE",
+        "Directrice ASE",
+        "Directeur Enfance et Famille",
+        "Directeur Protection de l'Enfance",
+        "Directeur Enfance Jeunesse"
+      ]
+    },
+    {
+      "niveau": "direction_adjointe",
+      "titres": [
+        "Adjoint au DGA Solidarités",
+        "Adjointe au DGA Solidarités",
+        "Directeur adjoint Autonomie",
+        "Directrice adjointe Autonomie",
+        "Directeur adjoint Enfance",
+        "Directrice adjointe Enfance"
+      ]
+    },
+    {
+      "niveau": "responsable_tarification",
+      "titres": [
+        "Chef de service tarification",
+        "Responsable pôle tarification",
+        "Chef de service financement des ESSMS",
+        "Responsable pilotage de l'offre",
+        "Chef du service pilotage budgétaire et tarification",
+        "Responsable financement et qualité",
+        "Chef de service offre médico-sociale"
+      ]
+    }
+  ],
+  "dirpjj": [
+    {
+      "niveau": "direction",
+      "titres": [
+        "Directeur interrégional",
+        "Directrice interrégionale",
+        "DIRA"
+      ]
+    },
+    {
+      "niveau": "direction",
+      "titres": [
+        "Directeur de l'évaluation, de la programmation et des affaires financières",
+        "Directrice de l'évaluation, de la programmation et des affaires financières",
+        "DEPAFI"
+      ]
+    },
+    {
+      "niveau": "responsable_tarification",
+      "titres": [
+        "Responsable du bureau du secteur associatif habilité",
+        "Tarificateur SAH",
+        "Tarificatrice SAH",
+        "Responsable pôle Affaires Financières",
+        "Chef du pôle affaires financières"
+      ]
+    }
+  ],
+  "ars": [
+    {
+      "niveau": "direction",
+      "titres": [
+        "Directeur de l'offre médico-sociale",
+        "Directrice de l'offre médico-sociale",
+        "Directeur de l'autonomie",
+        "Directrice de l'autonomie",
+        "Directeur de l'offre de soins et de l'autonomie",
+        "Directrice de l'offre de soins et de l'autonomie",
+        "Directeur de l'accompagnement et de l'offre médico-sociale",
+        "Directrice de l'accompagnement et de l'offre médico-sociale"
+      ]
+    },
+    {
+      "niveau": "direction_adjointe",
+      "titres": [
+        "Directeur adjoint offre médico-sociale",
+        "Directrice adjointe offre médico-sociale",
+        "Directeur adjoint autonomie",
+        "Directrice adjointe autonomie"
+      ]
+    },
+    {
+      "niveau": "responsable_tarification",
+      "titres": [
+        "Chef de service tarification",
+        "Chef du pôle financement",
+        "Chef du pôle allocation de ressources",
+        "Responsable du service pilotage budgétaire médico-social",
+        "Chef de service programmation et financement de l'offre médico-sociale",
+        "Chef de département efficience"
+      ]
+    }
+  ]
+}
